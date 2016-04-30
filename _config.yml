@@ -1,0 +1,28 @@
+name: Profit Executive
+favicon: null
+layout_spectrum: 0.5189567878842354
+typography_spectrum: 0.9303319847676903
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9632589910179377
+  lightness: 0.776694692671299
+  saturation: 0.9428365242201835
+  rhythmicContrast: 0.3541441538836807
+purpose: []
