@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Profit Executive]]></title>
+        <description><![CDATA[Profit Executive]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 19:54:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img width="540" height="540" alt="Best gifts for book lovers" src="http://ebookfriendly.com/wp-content/uploads/2015/07/Best-gifts-for-book-lovers-540x540.jpg">]]></description>
+            <link>undefinedwhen-looking-for-a-happy-smile-on-mothers-day-from-your-mom/index.html</link>
+            <guid isPermaLink="false">128b81d8-9691-4a7b-8e3e-2e30b3776741</guid>
+            <pubDate>Fri, 06 May 2016 19:54:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
